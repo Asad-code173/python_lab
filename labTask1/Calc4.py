@@ -1,7 +1,7 @@
 #Using Set
 numbers = set()
 for i in range(5):
-    num = input(f"Enter numbers {i+1} ")
+    num = input(f"Enter numbers plz {i+1} ")
     if num:
         numbers.add(float(num))
     else:
